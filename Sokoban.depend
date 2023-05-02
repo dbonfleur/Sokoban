@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1547136804 source:c:\users\dbonfleur\desktop\allegro\sokoban\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	<string.h>
+	<conio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1648392300 source:c:\users\danib\desktop\projetos - linguagem c\sokoban\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
+1626991641 source:c:\users\danib\desktop\bibliotecario\projetos - linguagem c\sokoban\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	<string.h>
+	<conio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+
